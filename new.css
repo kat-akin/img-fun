@@ -1,0 +1,19 @@
+#squirrelContainer
+{
+    position: relative;
+}
+
+.squirrel
+{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    display: none;
+    width: 10px;
+    height: 10px;
+}
+
+.squirrel.default
+{
+    display: block;
+}
